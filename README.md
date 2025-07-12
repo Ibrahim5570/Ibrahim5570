@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Muhammad Ibrahim!
+🎓 Computer Engineering student at EME (NUST)
+🤖 Passionate about AI/ML • Generative AI • Embedded Systems
 
-<!--
-**Ibrahim5570/Ibrahim5570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Currently building with Python, PyTorch, Arduino & PHP
+📍 Focused on developing real-world AI solutions and cool hardware-software integrations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What you'll find here
+
+📊 Machine Learning Projects — from regressions to neural networks  
+🔁 Generative AI & LLM experiments (Chatbots, fine-tuning, HuggingFace)  
+📡 Embedded systems (Arduino-based tools, AI-assisted devices)  
+🌐 Web + Map integrations (PHP + Mapbox + routing APIs)  
+📂 Clean, documented code — with a learning mindset behind every commit
+
+---
+
+## 📚 Current Focus
+
+- ✅ Core ML (sklearn projects in progress)
+- 🧠 Deep Learning with PyTorch
+- 🤖 Exploring HuggingFace Transformers & LLMs
+- 🔌 Arduino + AI hybrid projects (student attention tracker, etc.)
+- 🗺️ Map-based Web Apps (PHP + APIs)
+
+---
+
+## 🎯 Let's Connect
+
+[LinkedIn](https://linkedin.com/in/yourusername)  
+[GitHub](https://github.com/yourusername)  
+💬 Open to remote AI/ML work, collaborations & learning opportunities!
+
+> *"Building weird things until something works. Then improving it."* 🔧
