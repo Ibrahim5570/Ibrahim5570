@@ -54,12 +54,11 @@
 
 
 
-# 🎯 Let's Connect!:
+<br></br><h2 align="left"> 🎯 Let's Connect!:</h2>
+
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim-abdullah-220917319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-abdullah-220917319" height="30" width="40" /></a>
 </p>
-
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim5570&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim5570" /> </p>
 
 [![](https://visitcount.itsvg.in/api?id=Ibrahim5570&icon=0&color=0)](https://visitcount.itsvg.in)
