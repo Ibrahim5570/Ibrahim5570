@@ -1,6 +1,6 @@
 # 💫 About Me:
  <h1 align="center">🔭Hi 👋, I'm Ibrahim Abdullah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Computer Engineer from Pakistan</h3>
 🎓 Computer Engineering student at EME (NUST) 🤖 Passionate about AI/ML • Generative AI • Embedded Systems<br>🛠️ Currently building with Python, PyTorch, Arduino & PHP 📍 Focused on developing real-world AI solutions and cool hardware-software integrations<br>🚀 What you'll find here<br>📊 Machine Learning Projects — from regressions to neural networks<br>🔁 Generative AI & LLM experiments (Chatbots, fine-tuning, HuggingFace)<br>📡 Embedded systems (Arduino-based tools, AI-assisted devices)<br>🌐 Web + Map integrations (PHP + Mapbox + routing APIs)<br>📂 Clean, documented code — with a learning mindset behind every commit<br>🌱 📚 Current Focus<br>✅ Core ML (sklearn projects in progress)<br>🧠 Deep Learning with PyTorch<br>🤖 Exploring HuggingFace Transformers & LLMs<br>🔌 Arduino + AI hybrid projects (student attention tracker, etc.)<br>🗺️ Map-based Web Apps (PHP + APIs)<br>
 
 <h3 align="left">Languages and Tools:</h3>
